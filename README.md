@@ -1,5 +1,5 @@
 # ShellScriptProjectTemplate
-A template to quickly start a shell script project, it's easy to extend functions and supports customising profile as well as recording historical manipulations. Colourful theme & debug options are built-in.
+A template to quickly start a shell script project, it's easy to add functions and supports customising profile as well as recording historical manipulations. Colourful theme & debug options are built-in.
 
 To extend any function, just add your function to **arrayMenu** in the form of 'shortcuts ::function_name:: function_description' and then write your function body.
 ```
